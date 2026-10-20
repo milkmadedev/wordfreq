@@ -1,0 +1,8 @@
+[package]
+name = "wordfreq"
+version = "0.9.0"
+edition = "2021"
+description = "Rank word frequencies from files or stdin"
+license = "MIT"
+
+[dependencies]
